@@ -1,0 +1,11 @@
+{
+  "name": "ball-game",
+  "description": "by midtech",
+  "scripts": {
+    "build": "gulp build",
+    "start": "gulp run",
+    "watch": "gulp watch",
+    "test": "gulp test"
+  },
+  "repository": "https://github.com/Sukh-shopin/ballgame"
+}
